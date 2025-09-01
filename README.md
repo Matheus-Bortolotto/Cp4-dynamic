@@ -6,10 +6,12 @@ Este pacote implementa os dois desafios do **Checkpoint 4** com foco em **Progra
 ---
 
 ## 👥 Composição do Grupo
-- Nome 1 — RA: _______
-- Nome 2 — RA: _______
-- Nome 3 — RA: _______
-- Nome 4 — RA: _______
+- Guilherme Lunghini Teixeira – RM 555892
+- Luan Ramos Garcia de Souza – RM 558537
+- Marchel Augusto Ribeiro de Matos – RM 99856
+- Matheus Ricciotti – RM 556930
+- Matheus Bortolotto – RM 555189
+
 
 ---
 
